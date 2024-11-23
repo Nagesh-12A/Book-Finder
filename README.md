@@ -18,7 +18,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/book-finder.git
+git clone https://github.com/Nagesh-12A/Book-Finder
 
 Navigate to the project directory:
 bash
